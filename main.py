@@ -7,7 +7,7 @@ def evenOrOdd(a):
 
 number = int(input("give me a number: "))
 
-if evenOrOdd(number):
+if evenOrOdd(number):#2
     print("your number is even")
 else:
     print("your number is odd")
